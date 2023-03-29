@@ -1,0 +1,8 @@
+DELAY 500
+GUI SPACE
+DELAY 300
+STRING terminal.app
+DELAY 300
+ENTER 
+DELAY 1500
+STRING OPEN https://discord.com/channels/@me
